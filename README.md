@@ -13,5 +13,6 @@ The objective of this project is to extract textual data articles from the given
 ### Customization 
 > Changing input file:
 > > Add url id in column 1 and add url in column 2
+
 > Changing variables:
 > > U need to change the main python script accordingly 
